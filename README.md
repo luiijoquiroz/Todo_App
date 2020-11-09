@@ -1,2 +1,2 @@
 # Todo_App
-Todo App
+Aplicacion para la gestion de tareas.
